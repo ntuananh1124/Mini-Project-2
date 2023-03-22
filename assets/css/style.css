@@ -261,6 +261,10 @@
         font-size: 24px;
     }
 
+    .section-1-inner-title {
+        margin-top: 0;
+    }
+
     .section-1-desc {
         font-size: 13px;
     }
